@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rafael Top 😁
+## Bem-vindo(a) ao perfil do Rafael😁
 
  <div>
    <a href="https://github.com/Rafael-Top">
